@@ -1,0 +1,138 @@
+body{
+    background-color: #EAF6F6;
+    text-align: center;
+    margin: 0;
+    font-family: 'Merriweather', serif;
+    line-height:2;
+    /* font-family: 'Sacramento', cursive; */
+}
+h1 {
+    margin-top: 0;
+    color: #66BFBF;
+    font-family: 'Pacifico', cursive;
+    font-weight: lighter;
+    font-size: 4.5rem;
+    margin: 8% auto 0 auto;
+}
+h2 {
+    margin: 60px auto;
+    color: #66BFBF;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight:bold;
+    font-size: 3rem;
+
+}
+div{ 
+   
+    margin-bottom: 10px;
+   
+}
+.profile{
+    width: 200px;
+    height: 200px;
+    margin: 50px auto auto;
+}
+.middle{
+   background-color: white;
+}
+hr {
+    border-style: none;
+    width: 10%;
+    color: #e9e9e9;
+    border-top-style: dotted;
+    border-width: 12px;
+    margin-top: 50px;
+}
+
+.stylepink{
+    background-color: lightpink;
+    margin: 8px;
+
+}
+.leftcloud {
+    position: absolute;
+    left: 200px;
+    top: 50px;
+}
+.rightcloud{
+    position: absolute;
+    right:200px;
+}
+
+.mountain{
+    margin-bottom: 5px;
+    /* position: absolute; */
+}
+.footer-link{
+    margin:20px 10px;
+    color:#11999E;
+    text-decoration: none;
+}
+.skill-img{
+    width:15%;
+    float :left;
+    position: relative;
+    margin: 20px;
+}
+.skill-img2{
+    width:15%;
+    float :right;
+    position: relative;
+    margin: 20px;
+}
+.skill-img3{
+    width:25%;
+    float :left;
+    position: relative;
+    margin: 20px;
+}
+.skill-row{
+    width:50%;
+    margin:80px auto;
+    text-align:left;
+}
+.tool-img{
+    width:10%;
+    position: relative;
+    margin: 0 20px;
+}
+
+.btn{
+  
+        -webkit-border-radius: 20px;
+        -moz-border-radius: 20px;
+        border-radius: 20px;
+        color: #FFFFFF;
+        font-family: Verdana;
+        font-size: 1.2rem;
+        font-weight: 200;
+        padding: 1rem;
+        margin: 30px;
+        background-color: #66BFBF;
+        -webkit-box-shadow: 1px 1px 20px 0 #000000;
+        -moz-box-shadow: 1px 1px 20px 0 #000000;
+        box-shadow: 1px 1px 20px 0 #000000;
+        text-shadow: 1px 1px 20px #000000;
+        border: solid #337FED 1px;
+        text-decoration: none;
+        display: inline-block;
+        cursor: pointer;
+        text-align: center;
+     }
+     
+     .btn:hover {
+        background: white;
+        border: groove #66BFBF 4px;
+        -webkit-border-radius: 20px;
+        -moz-border-radius: 20px;
+        border-radius: 20px;
+        text-decoration: none;
+        color: #11999E;
+        ;
+     }
+
+/* .rightcloud{
+    position: absolute;
+    right:200px;
+    
+} */
